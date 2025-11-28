@@ -42,7 +42,7 @@
             // lblCosto
             // 
             this.lblCosto.AutoSize = true;
-            this.lblCosto.Location = new System.Drawing.Point(12, 67);
+            this.lblCosto.Location = new System.Drawing.Point(12, 113);
             this.lblCosto.Name = "lblCosto";
             this.lblCosto.Size = new System.Drawing.Size(102, 13);
             this.lblCosto.TabIndex = 0;
@@ -61,7 +61,7 @@
             // lblTipo
             // 
             this.lblTipo.AutoSize = true;
-            this.lblTipo.Location = new System.Drawing.Point(12, 116);
+            this.lblTipo.Location = new System.Drawing.Point(12, 69);
             this.lblTipo.Name = "lblTipo";
             this.lblTipo.Size = new System.Drawing.Size(88, 13);
             this.lblTipo.TabIndex = 2;
@@ -77,14 +77,14 @@
             // 
             // txtCosto
             // 
-            this.txtCosto.Location = new System.Drawing.Point(164, 60);
+            this.txtCosto.Location = new System.Drawing.Point(164, 106);
             this.txtCosto.Name = "txtCosto";
             this.txtCosto.Size = new System.Drawing.Size(100, 20);
             this.txtCosto.TabIndex = 5;
             // 
             // txtTipo
             // 
-            this.txtTipo.Location = new System.Drawing.Point(164, 109);
+            this.txtTipo.Location = new System.Drawing.Point(164, 62);
             this.txtTipo.Name = "txtTipo";
             this.txtTipo.Size = new System.Drawing.Size(100, 20);
             this.txtTipo.TabIndex = 6;
